@@ -6,20 +6,15 @@
 
 ## Sobre mim
 
-💻 **Desenvolvedor RPA e entusiasta de automações**  
+💻 **Desenvolvedor backend**  
 📚 **Graduando em Sistemas de Informação**  
-🎯 **Buscando sempre inovação e eficiência através da tecnologia**  
+🎯 **Buscando sempre inovação**  
 
-## Projetos
 
-Aqui você encontrará diversos projetos relacionados a:
-- 🤖 **Automação de Processos (RPA)**
-- 🐍 **Desenvolvimento com Python**
-- 🏢 **Soluções para empresas**
 
 ## Conecte-se comigo
 
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-📧 **E-mail:** seuemail@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/brian-schu-motta-82778725b/)  
+📧 **E-mail:** brianmottanh@gmail.com
 
 Sinta-se à vontade para explorar e contribuir! 😃
