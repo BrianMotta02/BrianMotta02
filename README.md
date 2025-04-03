@@ -1,7 +1,7 @@
 # 🚀 Bem-vindo ao Meu GitHub
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="100" height="100" alt="Robo"/>
+  <img src="https://media.giphy.com/media/Q5pA1YXh6YHNe/giphy.gif" width="100" height="100" alt="Robo"/>
 </p>
 
 ## Sobre mim
