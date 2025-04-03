@@ -1,9 +1,7 @@
 # 🚀 Bem-vindo ao Meu GitHub
 
 <p align="center">
-  <div style="width:100%;height:0;padding-bottom:56.25%;position:relative;">
-    <iframe src="https://giphy.com/embed/mIZ9rPeMKefm0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </div>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBnMDh4YW1qYWh1YWt0bzFsY3kzN3IzY3d2ZjluYnVxZ250NTVhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mIZ9rPeMKefm0/giphy.gif" width="100" height="100" alt="Robo"/>
 </p>
 
 ## Sobre mim
