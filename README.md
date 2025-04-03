@@ -17,4 +17,4 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/brian-schu-motta-82778725b/)  
 📧 **E-mail:** brianmottanh@gmail.com
 
-Sinta-se à vontade para explorar e contribuir! 😃
+
